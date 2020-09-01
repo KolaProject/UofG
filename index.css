@@ -1,0 +1,82 @@
+/*=====This for Login arae=====*/
+
+/*Start*/
+
+.left {
+    width: 30%;
+    text-align: right;
+}
+
+.right {
+    width: 65%;
+    height: 90vh;
+    text-align: right;
+}
+
+.login {
+    margin: 25%;
+}
+
+.clear {
+    clear: both;
+}
+
+.btn {
+    cursor: pointer;
+}
+.con{
+    height: 90vh;
+}
+/*End*/
+
+/*Student information area*/
+
+/*Start*/
+
+.info {
+    text-align: right;
+    float: right;
+    width: 50%;
+}
+
+/* ===Show you Last Gpa and Pyment=== */
+
+.message-btn {
+    margin-top: -150px;
+    margin-left: -180px;
+}
+
+.message {
+    cursor: pointer;
+    margin-top: 50px;
+    margin-left: 70px;
+}
+
+/*=========*/
+
+.side {
+    font-size: 22px;
+    margin-top: 100px;
+    margin-right: -15px;
+}
+
+.tex {
+    margin-left: 80px;
+}
+
+.img {
+    cursor: pointer;
+    margin-top: -5px;
+    margin-left: -35px;
+}
+
+.btn-1 {
+    margin-top: 90px;
+}
+
+/*==========*/
+
+.btn-2 {
+    margin-top: 10px;
+    margin-left: 150px;
+}
